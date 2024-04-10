@@ -22,7 +22,7 @@ SET time_zone = "+00:00";
 --
 
 -- --------------------------------------------------------
-
+-- database script
 --
 -- Table structure for table `albums`
 --
