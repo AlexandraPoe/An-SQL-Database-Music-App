@@ -1,4 +1,4 @@
-namespace An_SQL_Database_Music_App
+namespace SQLDatabaseMusicApp
 {
     public partial class Form1 : Form
     {
