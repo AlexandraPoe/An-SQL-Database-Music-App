@@ -1,4 +1,4 @@
-namespace An_SQL_Database_Music_App
+namespace SQLDatabaseMusicApp
 {
     internal static class Program
     {
